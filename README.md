@@ -1,4 +1,0 @@
-pdm
-===
-
-ProductManager platform
